@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : WikingW
 facebook:
   username               :
   app_id                 :
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Viking Waldén "
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "images/VW_3.jpg"
+  bio              : "PhD student in economics"
+  location         : "Stockholm, Sweden"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "vikingwalden"
   google_plus      :
   keybase          :
   instagram        :
