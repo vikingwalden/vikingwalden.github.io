@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-<img src="{{site.url}}/images/VW_3.jpeg" width="300" align="left" style="display: block; margin-right: 40px;" />
+<img src="{{site.url}}/images/VW_3.jpg" width="300" align="left" style="display: block; margin-right: 40px;" />
 
 I am a PhD Student in Economics at the Stockholm School of Economics.  I have
 research interests in applied microeconomics, with a focus on questions related
