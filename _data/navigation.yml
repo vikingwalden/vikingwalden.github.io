@@ -1,0 +1,15 @@
+# main links links
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "CV"
+    #url: https://www.dropbox.com/s/jf76rlxifl051i2/schroeder_cv_jm.pdf?dl=0
+    url: https://vikingwalden.github.io/files/cv.pdf
+    target: "_blank"
+
+  #- title: "Teaching"
+    #url: /teaching/
+
+  #- title: "Contact"
+  #  url: /contact/
