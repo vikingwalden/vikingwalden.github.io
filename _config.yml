@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Viking Waldén"
+title                    : "Viking Waldén - PhD Student in Economics"
 title_separator          : "-"
 name                     : &name "Viking Waldén"
-description              : &description "personal description"
+description              : &description "Viking Waldéns website. "
 url                      : https://vikingwalden.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vikingwalden/vikingwalden.github.io"
